@@ -2,4 +2,3 @@ Aquest és un txt d'inici
 
 Ara el modifico tot
 
-Torno a modificar pel master
