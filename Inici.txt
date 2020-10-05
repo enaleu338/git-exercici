@@ -2,3 +2,4 @@ Aquest és un txt d'inici
 
 Ara el modifico tot
 
+El modifico dins la branch1
